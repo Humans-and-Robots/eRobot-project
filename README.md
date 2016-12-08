@@ -6,10 +6,10 @@ Dependencies:
 
 The official community SDK of Emotiv epoc+:
 
-https://github.com/Emotiv/community-sdk.git
+https://github.com/Emotiv/community-sdk
 
 The emotions library for this project:
 
-https://github.com/Humans-and-Robots/Robot-emotion-library.git
+https://github.com/Humans-and-Robots/Robot-emotion-library
 
 
