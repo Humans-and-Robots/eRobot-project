@@ -15,6 +15,6 @@ https://github.com/Humans-and-Robots/Robot-emotion-library
 How to use:
 
 1. Copy the robot codes to the robot system within the same directory of the emotion library
-2. Build this project: https://github.com/Emotiv/community-sdk/tree/master/examples/C%2B%2B/FacialExpressionDemo on your computer. We use a Mac which can install all the Emotiv software easily and the C++ example programs in the community SDK updated recently to support MacOS
+2. Build this project: https://github.com/Emotiv/community-sdk/tree/master/examples/C%2B%2B/FacialExpressionDemo on your computer. We use a Mac which can install all the Emotiv software easily and the C++ example programs in the community SDK updated recently to support MacOS.
 3. Run the desktop codes on your own computer
 
